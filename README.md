@@ -74,6 +74,7 @@ This dashboard summarizes respondent age, country, and education level.
     ├── current-technology-usage.png
     ├── future-technology-trends.png
     └── demographics.png
+```
 
 ## Conclusion
 
