@@ -1,0 +1,81 @@
+Category,Technology,Count
+Languages Used,JavaScript,14943
+Languages Used,SQL,12602
+Languages Used,HTML/CSS,12410
+Languages Used,TypeScript,10709
+Languages Used,Python,9590
+Languages Used,Bash/Shell (all shells),7244
+Languages Used,C#,6340
+Languages Used,Java,5982
+Languages Used,PHP,4644
+Languages Used,PowerShell,3438
+Databases Used,PostgreSQL,11514
+Databases Used,MySQL,8556
+Databases Used,SQLite,7021
+Databases Used,MongoDB,5930
+Databases Used,Microsoft SQL Server,5870
+Databases Used,Redis,5814
+Databases Used,MariaDB,3994
+Databases Used,Elasticsearch,3491
+Databases Used,Dynamodb,2268
+Databases Used,Oracle,1907
+Platforms Used,Amazon Web Services (AWS),10871
+Platforms Used,Microsoft Azure,6681
+Platforms Used,Google Cloud,5537
+Platforms Used,Cloudflare,3874
+Platforms Used,Digital Ocean,3170
+Platforms Used,Firebase,3025
+Platforms Used,Vercel,2875
+Platforms Used,Heroku,2002
+Platforms Used,Netlify,1662
+Platforms Used,Hetzner,1392
+Web Frameworks Used,Node.js,9230
+Web Frameworks Used,React,8999
+Web Frameworks Used,jQuery,4810
+Web Frameworks Used,Express,4408
+Web Frameworks Used,Next.js,4399
+Web Frameworks Used,ASP.NET CORE,4319
+Web Frameworks Used,Angular,4038
+Web Frameworks Used,Vue.js,3642
+Web Frameworks Used,ASP.NET,3094
+Web Frameworks Used,Spring Boot,2916
+Languages Desired Next Year,JavaScript,11541
+Languages Desired Next Year,SQL,10944
+Languages Desired Next Year,TypeScript,10437
+Languages Desired Next Year,HTML/CSS,10016
+Languages Desired Next Year,Python,8919
+Languages Desired Next Year,Go,5661
+Languages Desired Next Year,Rust,5597
+Languages Desired Next Year,C#,5590
+Languages Desired Next Year,Bash/Shell (all shells),5582
+Languages Desired Next Year,Java,4048
+Databases Desired Next Year,PostgreSQL,12193
+Databases Desired Next Year,Redis,6384
+Databases Desired Next Year,SQLite,6295
+Databases Desired Next Year,MySQL,6204
+Databases Desired Next Year,MongoDB,5618
+Databases Desired Next Year,Microsoft SQL Server,4345
+Databases Desired Next Year,Elasticsearch,3665
+Databases Desired Next Year,MariaDB,3078
+Databases Desired Next Year,Dynamodb,2154
+Databases Desired Next Year,Supabase,1623
+Desired Platforms,Amazon Web Services (AWS),10516
+Desired Platforms,Microsoft Azure,6380
+Desired Platforms,Google Cloud,5431
+Desired Platforms,Cloudflare,4219
+Desired Platforms,Digital Ocean,2908
+Desired Platforms,Vercel,2776
+Desired Platforms,Firebase,2720
+Desired Platforms,Hetzner,1577
+Desired Platforms,Supabase,1368
+Desired Platforms,Netlify,1267
+Desired Web Frameworks,React,8223
+Desired Web Frameworks,Node.js,8096
+Desired Web Frameworks,Next.js,4458
+Desired Web Frameworks,ASP.NET CORE,4166
+Desired Web Frameworks,Vue.js,3903
+Desired Web Frameworks,Angular,3309
+Desired Web Frameworks,Express,3216
+Desired Web Frameworks,FastAPI,2823
+Desired Web Frameworks,Spring Boot,2674
+Desired Web Frameworks,Svelte,2559
