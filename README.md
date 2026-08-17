@@ -60,8 +60,20 @@ This dashboard summarizes respondent age, country, and education level.
 - `job-postings.xlsx` – Job postings data
 - Dashboard screenshots – Current usage, future trends, and demographics
 
+## Repository Structure
 
-
+```text
+.
+├── README.md
+├── capstone-report.pdf
+├── data/
+│   ├── technology_summary.csv
+│   ├── popular-languages.csv
+│   └── job-postings.xlsx
+└── images/
+    ├── current-technology-usage.png
+    ├── future-technology-trends.png
+    └── demographics.png
 
 ## Conclusion
 
