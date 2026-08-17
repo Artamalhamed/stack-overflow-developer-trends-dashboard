@@ -24,6 +24,12 @@ The project analyzes Stack Overflow Developer Survey data to identify current an
 * PowerPoint
 * Data Visualization
 
+## Interactive Dashboard
+
+The interactive dashboard was created using Google Looker Studio.
+
+Dashboard link will be added after publishing.
+
 ## Key Findings
 
 * JavaScript, SQL, TypeScript, HTML/CSS, and Python appeared among the top programming languages.
@@ -48,10 +54,14 @@ This dashboard summarizes respondent age, country, and education level.
 
 ## Project Files
 
-* Final project report PDF
-* Dashboard screenshots
-* Supporting charts and visualizations
-* Data summary files, if available
+- `capstone-report.pdf` – Final project report
+- `technology_summary.csv` – Prepared summary data for dashboard visualizations
+- `popular-languages.csv` – Programming language salary data
+- `job-postings.xlsx` – Job postings data
+- Dashboard screenshots – Current usage, future trends, and demographics
+
+
+
 
 ## Conclusion
 
