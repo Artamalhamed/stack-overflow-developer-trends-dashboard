@@ -28,7 +28,7 @@ The project analyzes Stack Overflow Developer Survey data to identify current an
 
 The interactive dashboard was created using Google Looker Studio.
 
-Dashboard link will be added after publishing.
+[Open Dashboard](https://datastudio.google.com/u/0/reporting/1a4c2e54-4c5a-4d41-b19a-c90425d1eee2/page/p_4hrarszk6d)
 
 ## Key Findings
 
